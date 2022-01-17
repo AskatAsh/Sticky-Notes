@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  margin-top: 50px;
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; */
+  position: relative;
+  /* width: 400px; */
+  margin: 0 auto;
+  top: 50px;
+}
+.dtl,
+.remind-btn,
+.delay-btn,
+.stop-btn {
+  font-size: 28px;
+  font-weight: bold;
+  background-color: #ffffff;
+  color: #664ff2;
+  border: 3px solid #664ff2;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 10px;
+}
